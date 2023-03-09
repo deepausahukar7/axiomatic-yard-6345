@@ -2,8 +2,8 @@
 
 ### Course-Monitoring-System `Monitor`
 <div align="center">
-  <img src="![Course Monitoring](https://user-images.githubusercontent.com/112754456/223939839-60ae3091-c9ff-4788-8998-5df3c72618ae.jpg)
-/>
+  <img src="![Course Monitoring](https://user-images.githubusercontent.com/112754456/223940071-18a6e26e-a5a6-4794-a886-5561fea19daf.jpg)
+" width="600" height="300"/>
 </div>
  
 <h1 align="center" style="font-size:35px">
