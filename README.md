@@ -1,6 +1,7 @@
 # axiomatic-yard-6345
 
 ### Course-Monitoring-System `Monitor`
+<img src="Course Monitoring.jpg" alt="">
  
 <h1 align="center" style="font-size:35px">
   <b>Course Monitoring System</b>
