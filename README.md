@@ -1,7 +1,11 @@
 # axiomatic-yard-6345
 
 ### Course-Monitoring-System `Monitor`
-![alt text](https://github.com/deepausahukar7/axiomatic-yard-6345/blob/main/Course%20Monitoring.jpg?raw=true)
+<!-- ![alt text](https://github.com/deepausahukar7/axiomatic-yard-6345/blob/main/Course%20Monitoring.jpg?raw=true) -->
+
+<div style="text-align:center">
+  <img src="https://github.com/deepausahukar7/axiomatic-yard-6345/blob/main/Course%20Monitoring.jpg?raw=true" alt="alt text">
+</div>
  
 <h1 align="center" style="font-size:35px">
   <b>Course Monitoring System</b>
