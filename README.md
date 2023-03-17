@@ -1,6 +1,9 @@
 # axiomatic-yard-6345
 
 ### Course-Monitoring-System `Monitor`
+<div align="center">
+  <img src="![Course Monitoring](https://user-images.githubusercontent.com/112754456/223940071-18a6e26e-a5a6-4794-a886-5561fea19daf.jpg)"/>
+</div>
  
 <h1 align="center" style="font-size:35px">
   <b>Course Monitoring System</b>
@@ -32,7 +35,7 @@ In a construct week of SB101 in Masai School I made this project indivisually so
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,hibernate,mysql,github,git)]()
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,github,git)]()
 ## Features
 
 1. Basic authentication of various user accounts (admin, faculty).
