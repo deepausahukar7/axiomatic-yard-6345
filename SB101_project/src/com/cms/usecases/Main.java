@@ -36,10 +36,22 @@ public class Main {
 			String check = admin.loginAdmin();
 			System.out.println(check);
 			if(check.equals("Sign in Succesfull !..")) {
-				System.out.print("Type 99 to exit, Type 1 for Course, 2 for Batch, 3 for Faculty, 4 for Course Plan, 5 for Allocated Teacher and 6 for Generate Batch Reoprt: ");
+				
+				System.out.println("Type 99 to exit ");
+				System.out.println("Type 1 for Course ");
+				System.out.println("Type 2 for Batch");
+				System.out.println("Type 3 for Faculty");
+				System.out.println("Type 4 for Course Plan");
+				System.out.println("Type 5 for Allocated Teacher");
+				System.out.println("Type 6 for Generate Batch Reoprt");
 				int type = sc.nextInt();
 				if(type==1) {
-					System.out.print("Press 99 to exit Press 1 for Create new Course, 2 for Update Course and 3 for View Course: ");
+					System.out.println("Press 99 to exit ");
+					System.out.println("Press 1 for Create new Course");
+					System.out.println("Press 2 for Update Course");
+					System.out.println("Press 3 for View Course");
+					
+					
 					int press = sc.nextInt();
 					if(press==1) {
 						CreateCourse cc = new CreateCourse();
@@ -60,7 +72,13 @@ public class Main {
 						System.out.println("Please enter a valid keyword...");
 					}
 				}else if(type == 2) {
-					System.out.print("Press 99 to exit Press 1 for Create new Batch, 2 for Update Batch and 3 for View Batch: ");
+					
+					System.out.print("Press 99 to exit Press");
+					System.out.println("Press 1 for Create new Batch");
+					System.out.println("Press 2 for Update Batch");
+					System.out.println("Press 3 for View Batch");
+					
+					
 					int press = sc.nextInt();
 					if(press==1) {
 						CreateBatch cb = new CreateBatch();
@@ -81,7 +99,12 @@ public class Main {
 						System.out.println("Please enter a valid keyword...");
 					}
 				}else if(type == 3) {
-					System.out.print("Press 99 to exit Press 1 for Create new Faculty, 2 for Update Faculty and 3 for View Faculty: ");
+					System.out.print("Press 99 to exit Press");
+					System.out.println("Press 1 for Create new Faculty");
+					System.out.println("Press 2 for Update Faculty");
+					System.out.println("Press 3 for View Faculty");
+					
+					
 					int press = sc.nextInt();
 					if(press==1) {
 						CreateFaculty cf = new CreateFaculty();
@@ -102,7 +125,12 @@ public class Main {
 						System.out.println("Please enter a valid keyword...");
 					}
 				}else if(type == 4) {
-					System.out.print("Press 99 to exit Press 1 for Create new Course Plan, 2 for Update Course Plan and 3 for View Course Plan: ");
+					System.out.print("Press 99 to exit");
+					System.out.println("Press 1 for Create new Course Plan");
+					System.out.println("Press 2 for Update Course Plan");
+					System.out.println("Press 3 for View Course Plan");
+					
+					
 					int press = sc.nextInt();
 					if(press==1) {
 						CreatePlan cp = new CreatePlan();
@@ -152,7 +180,12 @@ public class Main {
 				LoginFaculty lf = new LoginFaculty();
 				boolean res = lf.facultyLogin();
 				if(res) {
-					System.out.println("Press 99 to exit, Press 1 for View Course Plan and 2 for Update password: ");
+					System.out.println("Press 99 to exit");
+					
+					System.out.println("Press 1 for View Course Plan");
+					System.out.println("Press 2 for Update password");
+					
+					
 					int press = sc.nextInt();
 					if(press == 1) {
 						ViewPlan vp = new ViewPlan();
