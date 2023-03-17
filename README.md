@@ -2,7 +2,7 @@
 
 ### Course-Monitoring-System `Monitor`
 <div align="center">
-  <img src="![Course Monitoring](https://user-images.githubusercontent.com/112754456/223940071-18a6e26e-a5a6-4794-a886-5561fea19daf.jpg)"/>
+  <img src="![Course Monitoring](https://github.com/deepausahukar7/axiomatic-yard-6345/blob/main/Course%20Monitoring.jpg?raw=true)"/>
 </div>
  
 <h1 align="center" style="font-size:35px">
